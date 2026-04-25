@@ -2,7 +2,8 @@
 # cpsc39-finalProjects
 
 
-**Name:** Nanak Barring
+## Author
+Nanak Barring
 **Date:** 4/24/2026
 
 ---
